@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+
+#titulo {
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #719EF9;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: oblique;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #FF0067;
+}
+#imagenescambiantes {
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+#menupersonajes {
+    text-align: center;
+}
+#personajes {
+    text-align: center;
+
+}
+
+#temas {
+}
+#imagenescambiantes {
+}
+#main {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #DBA8F8;
+    text-align: center;
+}
+#contenido {
+    background-color: #80F0F9;
+    text-align: justify;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#etimologia {
+    background-color: #C287F5;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-size: large;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#primeraimg img {
+    text-align: left;
+
+
+}
+#imguno {
+    text-align: center;
+}
+#imagenes {
+    text-align: center;
+}
+#mainn {
+    background-color: #C2B2E5;
+    width: 80%;
+    margin-right: 20%;
+    margin-left: 10%;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+#mainn #espacioantes {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-shadow: 0px 0px #DA28E5;
+    font-size: smaller;
+}

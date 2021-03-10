@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+#navega {
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #D1CD5E;
+}
+#banner {
+    height: 200px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #79ED6C;
+}
+#mainhead {
+    background-color: #E869E7;
+    height: 30px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+#contenido {
+    height: 600px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #EBE292;
+}
+#footer {
+    height: 150px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #F35D60;
+}
+#header {
+    height: 80px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: #E8A648;
+}
+#c2 {
+    background-color: #DDE741;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+    left: 0px;
+    top: 58px;
+}
+#c3 {
+    background-color: #63EF6E;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 3;
+    left: -1px;
+    top: 58px;
+}
+#c4 {
+    background-color: #533CE8;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 4;
+    left: 1px;
+    top: 59px;
+}
+#c5 {
+    background-color: #C856ED;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 5;
+    left: 1px;
+    top: 61px;
+}
